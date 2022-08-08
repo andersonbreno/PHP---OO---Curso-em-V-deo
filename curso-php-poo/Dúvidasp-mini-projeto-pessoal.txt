@@ -1,0 +1,16 @@
+Ideia de mini-projeto; 
+
+Ter um banco de dados com dados das flautas como  e poder fazer consultas a esses dados para que eles mostrem todos os dados sobre cada modelo requerido.
+
+=> IMAGENS;
+=> MODELO;
+=> ANO DE FABRICAÇÃO;
+=> PREÇO;
+=> FABRICADA EM;
+
+==> Minhas dúvidas do momento ...
+
+=> Quantas linguagens serão necessárias ? 
+=> Será necessário Javascript ?
+=> Será necessário Banco de dados?
+=> Será necessária a construção de uma API?
